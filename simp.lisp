@@ -1,6 +1,3 @@
-;; Vanderlei de Brito Júnior - XXXXXX
-;; Vitor Sugaya              - 743605
-
 (defun der (y x)
   (cond
     ((atom y) (cond
